@@ -82,4 +82,4 @@ For a more in-depth understanding, detailed code implementation, and comprehensi
 
 ## Credits
 
-This project was carried out by [Your Name] as a part of [Course/Program Name] at [Institution Name]. We extend our gratitude to [Supervisor/Instructor Name] for their valuable support and guidance.
+This project was carried out by Mubarak Shikalgar as a part of Research Project Course at Sanjay Ghodawat University. We extend our gratitude to Dr. Chetan Arage and Deepika Patil Ma'am for their valuable support and guidance.
