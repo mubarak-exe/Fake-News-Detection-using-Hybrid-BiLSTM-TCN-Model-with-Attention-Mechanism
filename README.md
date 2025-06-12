@@ -1,6 +1,6 @@
 # Fake News Detection using Hybrid BiLSTM TCN Model with Attention Mechanism
 
-![Project Logo](project_logo.png)
+Link to the paper: https://ieeexplore.ieee.org/document/10140491   
 
 Welcome to the Fake News Detection Using Deep Learning project repository. This project focuses on developing deep learning models to detect fake news articles. By leveraging state-of-the-art techniques and utilizing the ISOT Fake News Dataset, we aim to build models that can effectively distinguish between genuine and fake news content.
 
