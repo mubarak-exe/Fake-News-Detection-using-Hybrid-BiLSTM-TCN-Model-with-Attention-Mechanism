@@ -1,4 +1,4 @@
-# Fake-News-Detection-using-Hybrid-BiLSTM-TCN-Model-with-Attention-Mechanism
+# Fake News Detection using Hybrid BiLSTM TCN Model with Attention Mechanism
 
 ![Project Logo](project_logo.png)
 
